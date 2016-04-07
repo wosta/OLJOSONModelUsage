@@ -15,6 +15,7 @@
 		852F08CD1CB6004E00BDD2AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 852F08CB1CB6004E00BDD2AE /* LaunchScreen.storyboard */; };
 		852F08D81CB6004E00BDD2AE /* OLJSONModelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 852F08D71CB6004E00BDD2AE /* OLJSONModelTests.m */; };
 		852F08E31CB6004E00BDD2AE /* OLJSONModelUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 852F08E21CB6004E00BDD2AE /* OLJSONModelUITests.m */; };
+		852F08F11CB6009200BDD2AE /* RevistRecod.plist in Resources */ = {isa = PBXBuildFile; fileRef = 852F08F01CB6009200BDD2AE /* RevistRecod.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		852F08DE1CB6004E00BDD2AE /* OLJSONModelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OLJSONModelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		852F08E21CB6004E00BDD2AE /* OLJSONModelUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OLJSONModelUITests.m; sourceTree = "<group>"; };
 		852F08E41CB6004E00BDD2AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		852F08F01CB6009200BDD2AE /* RevistRecod.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = RevistRecod.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		852F08BC1CB6004E00BDD2AE /* OLJSONModel */ = {
 			isa = PBXGroup;
 			children = (
+				852F08F01CB6009200BDD2AE /* RevistRecod.plist */,
 				852F08C01CB6004E00BDD2AE /* AppDelegate.h */,
 				852F08C11CB6004E00BDD2AE /* AppDelegate.m */,
 				852F08C31CB6004E00BDD2AE /* ViewController.h */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				852F08CD1CB6004E00BDD2AE /* LaunchScreen.storyboard in Resources */,
+				852F08F11CB6009200BDD2AE /* RevistRecod.plist in Resources */,
 				852F08CA1CB6004E00BDD2AE /* Assets.xcassets in Resources */,
 				852F08C81CB6004E00BDD2AE /* Main.storyboard in Resources */,
 			);
